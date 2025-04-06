@@ -1,5 +1,5 @@
 # Machine Learning - DAT 412
-This repository contains assignments completed as part of my DAT 412 Machine Learning course. Each assignment builds upon foundational machine learning concepts using Python, NumPy, and TensorFlow/Keras.
+This repository contains assignments completed as part of my DAT 412 Machine Learning course
 
 ---
 
