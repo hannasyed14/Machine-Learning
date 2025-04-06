@@ -1,12 +1,11 @@
-# 🧠 DAT 412 – Machine Learning Class Repository
-
+# Machine Learning - DAT 412
 This repository contains assignments completed as part of my DAT 412 Machine Learning course. Each assignment builds upon foundational machine learning concepts using Python, NumPy, and TensorFlow/Keras.
 
 ---
 
-## 📂 Assignments Overview
+## Assignments Overview
 
-### 📘 A1 – Linear Regression with Gradient Descent
+###  A1 – Linear Regression with Gradient Descent
 - Implements univariate linear regression to model the relationship between study hours and test scores.
 - Uses gradient descent to optimize weights and biases.
 - Includes predictions and visualizations.
@@ -14,7 +13,7 @@ This repository contains assignments completed as part of my DAT 412 Machine Lea
 
 ---
 
-### 📘 A2 – Multivariate Linear Regression & Vectorization
+### A2 – Multivariate Linear Regression & Vectorization
 - Predicts housing prices based on size, number of bedrooms, and age.
 - Introduces feature scaling (Z-score normalization) to speed up convergence.
 - Compares non-vectorized and vectorized implementations of gradient descent.
@@ -22,7 +21,7 @@ This repository contains assignments completed as part of my DAT 412 Machine Lea
 
 ---
 
-### 📘 A3 – Logistic Regression for Binary Classification
+### A3 – Logistic Regression for Binary Classification
 - Predicts the likelihood of customer purchase using time on website and number of pages visited.
 - Implements logistic regression from scratch, including sigmoid function, cost computation, gradient descent, and regularization.
 - Evaluates performance using accuracy.
@@ -30,7 +29,7 @@ This repository contains assignments completed as part of my DAT 412 Machine Lea
 
 ---
 
-### 📘 A4 – Neural Network for Handwritten Digit Classification
+### A4 – Neural Network for Handwritten Digit Classification
 - Classifies grayscale 20x20 images of handwritten digits (0 or 1).
 - Trains a feedforward neural network using TensorFlow/Keras.
 - Tests different architectures (25 vs. 100 neurons, ReLU vs. tanh).
@@ -39,7 +38,7 @@ This repository contains assignments completed as part of my DAT 412 Machine Lea
 
 ---
 
-### 📘 A5 – Deep Learning Regression Model
+### A5 – Deep Learning Regression Model
 - Uses a deep neural network to predict prices from synthetic real estate features.
 - Includes model training, validation, and evaluation using MAE (mean absolute error).
 - Visualizes loss and MAE trends over epochs, and compares predicted vs. actual prices.
@@ -47,7 +46,7 @@ This repository contains assignments completed as part of my DAT 412 Machine Lea
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 - Python
 - NumPy
 - Matplotlib
