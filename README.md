@@ -46,6 +46,15 @@ This repository contains assignments completed as part of my DAT 412 Machine Lea
 
 ---
 
+### A6 – Neural Networks for Predicting Housing Prices
+- Builds a deep neural network to predict housing prices based on size (sqft), location score, and number of bedrooms.
+- Normalizes features using StandardScaler and splits data into training and testing sets (80/20).
+- Trains a two-layer neural network (64 and 32 neurons with ReLU activation) using the Adam optimizer and MSE loss.
+- Evaluates performance with MAE and visualizes both training vs. validation loss and true vs. predicted prices.
+- **Key takeaway**: Neural networks can generalize well for price prediction tasks and benefit from feature scaling and model tuning.
+
+---
+
 ## Technologies Used
 - Python
 - NumPy
